@@ -1,7 +1,7 @@
 {
   "name": "chainguardian",
   "productName": "ChainGuardian",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Eth2.0 desktop validator client",
   "keywords": [
     "eth2",
